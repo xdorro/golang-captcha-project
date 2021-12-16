@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="46f910b2-4851-4dc9-9c5e-bf78ec39f1ea" />
+    <targets>
+      <target name="WSL - Ubuntu-18.042" type="wsl" uuid="46f910b2-4851-4dc9-9c5e-bf78ec39f1ea">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-18.04" />
+          <option name="projectRootOnTarget" value="/mnt/d/JetBrains/GoLand 2021.1.3/jbr/bin&#10;/golang-captcha-project" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/xdorro/go" />
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
